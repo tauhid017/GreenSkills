@@ -59,7 +59,8 @@ Build GreenSkills from source and install dependencies:
 
    ```bash
    git clone https://github.com/tauhid017/GreenSkills
-cd GreenSkills
-pip install -r requirements.txt
-jupyter notebook GreenSkills.ipynb
-pytest tests/
+2. cd GreenSkills
+
+3. pip install -r requirements.txt
+4. jupyter notebook GreenSkills.ipynb
+5. pytest tests/
